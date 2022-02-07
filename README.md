@@ -1,7 +1,7 @@
 # crypto_exchange
 An instant cryptocurrency exchange called EthSwap, where you can trade cryptocurrencies at a guaranteed price
 <br />
-This was a project from DApp University to help me get started with learning how to write smart contracts/blockchain apps
+This was a project to help me get started with learning how to write smart contracts/blockchain apps
 <br />
 # Tools used
 React.js
